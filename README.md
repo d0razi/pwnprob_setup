@@ -1,4 +1,4 @@
-# pwnprob_setup v.1.0.0
+# pwnprob_setup v.0.1.0
 - Create a pwnprob base file tool
 ![preview](images/preview.png)
 

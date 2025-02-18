@@ -7,3 +7,7 @@ edition = "2021"
 clap = "4.0"
 colored = "3.0.0"
 md5 = "0.7"
+
+[[bin]]
+name = "pwnprob_setup"
+path = "src/main.rs"
