@@ -40,7 +40,7 @@ fn gen_docker_compose(port: &str, container_name: &str) {
 
 fn gen_dockerfile(port: &str) {
     let content = format!(
-"FROM ubuntu:20.04
+"FROM ubuntu:22.04
 ENV USER=prob
 ENV PORT={0}
 
