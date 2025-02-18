@@ -2,6 +2,8 @@
 name = "pwnprob_setup"
 version = "0.1.0"
 edition = "2021"
+description = "Create pwn prob docker file"
+license = "MIT"
 
 [dependencies]
 clap = "4.0"
