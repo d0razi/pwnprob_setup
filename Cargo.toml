@@ -1,0 +1,9 @@
+[package]
+name = "pwnprob_setup"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4.0"
+colored = "3.0.0"
+md5 = "0.7"
