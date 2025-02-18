@@ -7,6 +7,11 @@
 2. Set Dockerfile
 3. Set flag file
 
+# Install
+```bash
+cargo install pwnprob_setup
+```
+
 # Usage
 `pwnprob_setup <port> <docker-container-name>`
 
