@@ -114,7 +114,7 @@ checksum = "945462a4b81e43c4e3ba96bd7b49d834c6f61198356aa858733bc4acf3cbe62e"
 
 [[package]]
 name = "pwnprob_setup"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "clap",
  "colored",
