@@ -1,11 +1,7 @@
 use std::process;
 
 use colored::*;
-use pwnprob_setup::gen_docker_compose;
-use pwnprob_setup::gen_dockerfile;
-use pwnprob_setup::gen_flag;
-use pwnprob_setup::gen_run;
-use pwnprob_setup::parse_config;
+use pwnprob_setup::*;
 
 fn main() {
     let args: Vec<String> = std::env::args().collect();
